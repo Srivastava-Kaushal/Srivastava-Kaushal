@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://komarev.com/ghpvc/?username=Srivastava-Kaushal)
+![](https://komarev.com/ghpvc/?username=Srivastava-Kaushal&style=for-the-badge)
 [![An image of @srivastavakaushal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/srivastavakaushal)](https://holopin.io/@srivastavakaushal)
